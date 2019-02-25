@@ -1,0 +1,7 @@
+this is my editor to run my first test
+w is for write and q is for save 
+wq:wq
+:wq
+:wq
+:wq
+
